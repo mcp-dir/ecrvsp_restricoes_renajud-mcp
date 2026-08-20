@@ -1,0 +1,9 @@
+{
+  "_comment": "Cole em .vscode/mcp.json (workspace) OU Command Palette: 'MCP: Add Server' → HTTP → cole https://api.mcp.ai/p_ecrvsp_restricoes_renajud.",
+  "servers": {
+    "ecrvsp_restricoes_renajud": {
+      "type": "http",
+      "url": "https://api.mcp.ai/p_ecrvsp_restricoes_renajud"
+    }
+  }
+}
